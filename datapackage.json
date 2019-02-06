@@ -1,7 +1,7 @@
 {
-  "bytes": 72381,
+  "bytes": 59961,
   "count_of_rows": 1332,
-  "hash": "a47151f5ca7ab0bb93c8b28a8a41601f",
+  "hash": "93a73c082f9635413ffab724d9e7c238",
   "licenses": [
     {
       "name": "OGL",
@@ -9,7 +9,7 @@
       "title": "Open Government Licence"
     }
   ],
-  "name": "crime",
+  "name": "london-recorded-crime",
   "profile": "data-package",
   "resources": [
     {
@@ -39,96 +39,6 @@
             "format": "default",
             "name": "Borough",
             "type": "string"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 1999",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2000",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2001",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2002",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2003",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2004",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2005",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2006",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2007",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2008",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2009",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2010",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2011",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2012",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2013",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2014",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2015",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 2016",
-            "type": "any"
           },
           {
             "format": "%Y-%m-%d",
@@ -191,5 +101,5 @@
       }
     }
   ],
-  "title": "Crime"
+  "title": "London Recorded crime rates"
 }
