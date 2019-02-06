@@ -1,18 +1,12 @@
 {
-  "bytes": 128296,
-  "count_of_rows": 2664,
-  "hash": "68156729554d5709bb53e355832684b6",
-  "licenses": [
-    {
-      "name": "OGL",
-      "path": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "title": "Open Government Licence"
-    }
-  ],
-  "name": "crime",
+  "bytes": 63699,
+  "count_of_rows": 1332,
+  "hash": "331b5cf69744c004655475bc3995d032",
   "profile": "data-package",
   "resources": [
     {
+      "bytes": 41634,
+      "count_of_rows": 666,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -24,6 +18,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
+      "hash": "ed247aa8e832303a2c71e058a22cba50",
       "mediatype": "text/xlsx",
       "name": "crime-rates",
       "path": "data/crime-rates.csv",
@@ -39,11 +34,6 @@
             "format": "default",
             "name": "Borough",
             "type": "string"
-          },
-          {
-            "format": "default",
-            "name": "Mid-year estimates 1999",
-            "type": "any"
           },
           {
             "format": "default",
@@ -190,6 +180,5 @@
         ]
       }
     }
-  ],
-  "title": "Crime"
+  ]
 }
